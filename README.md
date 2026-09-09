@@ -1,170 +1,389 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Priya Dharshini</h1>
 
-<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=180&section=header&text=PRIYA%20DHARSHINI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+</p>
 
-# PRIYA
-# DHARSHINI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Software+Engineering+%7C+AI+%2B+Full+Stack;Building+clean+and+responsive+web+experiences;Learning+%7C+Building+%7C+Improving;Turning+ideas+into+working+products" />
+</p>
 
-### DESIGNING DIGITAL EXPERIENCES · BUILDING WEB APPLICATIONS
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science%20%26%20Engineering-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tamil%20Nadu%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://madurai-bus-tracker.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hello@example.com">
+    <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/priyadharshini753753">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-`WEB DESIGN` &nbsp;&nbsp; `FULL STACK` &nbsp;&nbsp; `JAVASCRIPT`
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyadharshini753753&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/priyadharshini753753?style=for-the-badge&color=4C1D95&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/priyadharshini753753?style=for-the-badge&color=312E81&label=STARS"/>
+</p>
 
-<br><br>
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## About
 
-**HELLO, I'M PRIYA.**
+I'm a Computer Science student focused on building practical software products through **full-stack development, modern web technologies, and AI-driven solutions**.
 
-I design and build digital experiences that are
-simple to use, responsive, and purposeful.
+I enjoy transforming ideas into responsive interfaces, reliable backend systems, database-driven applications, and deployable digital products. My development approach combines clean UI, maintainable code, structured problem solving, and continuous learning.
 
-I enjoy working from **idea → interface → code → product.**
+My current interests include:
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- Software Engineering
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Responsive UI Engineering
+- REST API Development
+- Database-driven Applications
+- Product-oriented Development
+- Open Source & Developer Tools
 
-<br>
+### Open To
 
-## SELECTED WORK
+`Internships` `Entry-Level Software Roles` `Full Stack Projects` `AI/ML Projects` `Open Source` `Collaborations`
 
-<br>
+---
 
-### 01 — MADURAI BUS TRACKER
+## Tech Stack
 
-**Transportation · Web Application**
+### Languages
 
-A web experience focused on exploring bus routes
-and transportation information.
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,html,css&theme=dark"/>
+</p>
 
-`HTML` `CSS` `JAVASCRIPT`
+### Frontend
 
-[ VIEW PROJECT → ](https://madurai-bus-tracker.vercel.app/)
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind&theme=dark"/>
+</p>
 
-<br><br>
+### Backend & Databases
 
-### 02 — COGNEVANCE PORTFOLIO
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark"/>
+</p>
 
-**Personal Portfolio · Responsive Web**
+### Cloud, DevOps & Tooling
 
-A responsive portfolio created to present my
-skills, projects and development journey.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark"/>
+</p>
 
-`HTML` `CSS` `JAVASCRIPT`
+---
 
-[ VIEW SOURCE → ](https://github.com/priyadharshini753753/cognevance_portfolio)
+## AI / ML Expertise
 
-<br><br>
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning | Intermediate | Understanding of supervised learning workflows and model evaluation |
+| Deep Learning | Intermediate | Exploring neural-network based approaches including DNN architectures |
+| AI Security | Intermediate | Exploring AI-assisted approaches for malware and ransomware detection |
+| AdaBoost | Intermediate | Understanding ensemble learning and boosting concepts |
+| Data Processing | Intermediate | Working with structured datasets and analytical workflows |
+| AI Applications | Learning | Exploring practical AI integration into software products |
 
-### 03 — INVENTORY MANAGEMENT
+---
 
-**Database · Management System**
+## Featured Projects
 
-A system focused on managing products,
-stock information and inventory data.
+<details>
+<summary><strong>🚌 Madurai Bus Tracking Application</strong></summary>
 
-`SQL` `DATABASE`
+### Overview
 
-<br><br>
+A responsive web application designed to provide a convenient interface for exploring Madurai bus routes and transportation information.
 
-### 04 — MOVIE SEARCH
+| Category | Details |
+|---|---|
+| Stack | HTML5 · CSS3 · JavaScript |
+| Scale | Responsive Web Application |
+| Performance | Lightweight frontend architecture |
+| Security | Client-side validation and structured UI |
+| Impact | Practical local transportation utility |
+| Repository | [GitHub](https://github.com/priyadharshini753753) |
 
-**API · Search Application**
+The project focuses on creating a simple and accessible transportation experience with responsive layouts and deployment-ready frontend architecture.
 
-A dynamic application for discovering movie
-information through API-based data.
+[Live Application](https://madurai-bus-tracker.vercel.app/)
 
-`JAVASCRIPT` `API` `UI`
+</details>
 
-<br>
+<details>
+<summary><strong>💼 Cognevance Responsive Portfolio</strong></summary>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Overview
 
-## MY TOOLKIT
+A responsive developer portfolio created as part of a structured internship project, focusing on professional presentation, responsive UI, project showcasing, and backend-ready contact functionality.
 
-<br>
+| Category | Details |
+|---|---|
+| Stack | HTML5 · CSS3 · JavaScript · Node.js · MySQL |
+| Scale | Full-stack portfolio application |
+| Performance | Responsive and lightweight UI |
+| Security | Form validation and backend API architecture |
+| Impact | Professional developer presence |
+| Repository | [GitHub](https://github.com/priyadharshini753753/cognevance_portfolio) |
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,java,php,mysql,git,github,vscode,postman&perline=7">
+The project demonstrates practical experience across frontend development, backend integration, database connectivity, deployment, and documentation.
 
-<br><br>
+</details>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<details>
+<summary><strong>📦 ERP Inventory Management System</strong></summary>
 
-## CURRENTLY
+### Overview
 
-<br>
+A database-oriented inventory management solution designed to organize products, inventory records, and operational data.
 
-**LEARNING**  
-React · Node.js · Express · APIs
+| Category | Details |
+|---|---|
+| Stack | Java · SQL · MySQL |
+| Scale | Database-driven application |
+| Performance | Structured relational queries |
+| Security | Controlled database operations |
+| Impact | Organized inventory workflow |
+| Repository | [GitHub](https://github.com/priyadharshini753753) |
 
-**BUILDING**  
-Responsive web applications
+The project demonstrates relational database design, SQL operations, data management, and application-oriented problem solving.
 
-**EXPLORING**  
-Modern UI · Backend development · Databases
+</details>
 
-<br>
+<details>
+<summary><strong>📚 Bookstore Management System</strong></summary>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Overview
 
-## THE PROCESS
+A management application designed around bookstore records and database-driven operations.
 
-<br>
+| Category | Details |
+|---|---|
+| Stack | Java · SQL · MySQL |
+| Scale | CRUD-based application |
+| Performance | Structured relational queries |
+| Security | Input validation and controlled operations |
+| Impact | Simplified bookstore data management |
+| Repository | [GitHub](https://github.com/priyadharshini753753) |
 
-**01** IDEA  
-↓  
-**02** DESIGN  
-↓  
-**03** DEVELOP  
-↓  
-**04** TEST  
-↓  
-**05** IMPROVE
+The application demonstrates practical implementation of database concepts and CRUD workflows.
 
-<br>
+</details>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<details>
+<summary><strong>🎬 Movie Search Application</strong></summary>
 
-## A FEW THINGS ABOUT ME
+### Overview
 
-<br>
+A responsive movie discovery application using API-based data retrieval and dynamic frontend rendering.
 
-✦ I learn by building.
+| Category | Details |
+|---|---|
+| Stack | HTML · CSS · JavaScript · Fetch API |
+| Scale | API-driven frontend |
+| Performance | Asynchronous data fetching |
+| Security | Controlled API request handling |
+| Impact | Interactive movie discovery experience |
+| Repository | [GitHub](https://github.com/priyadharshini753753) |
 
-✦ I enjoy turning ideas into interfaces.
+The project demonstrates REST-style API consumption, asynchronous JavaScript, dynamic DOM rendering, and responsive interface development.
 
-✦ I care about responsive design.
+</details>
 
-✦ I like solving practical problems.
+---
 
-✦ I'm constantly exploring new technologies.
+## Experience
 
-<br>
+### Full Stack Development Intern — Cognevance
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**2026 · Internship**
 
-## LET'S CONNECT
+Working on practical software development projects involving responsive interfaces, backend APIs, database integration, and deployment workflows.
 
-<br>
+- Developing responsive and accessible web interfaces
+- Building frontend components using modern web technologies
+- Creating REST API endpoints
+- Integrating MySQL databases with backend applications
+- Implementing authentication workflows
+- Working with Git and GitHub-based development
+- Deploying projects using modern hosting platforms
+- Maintaining project documentation and README files
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `MySQL` `Git` `GitHub`
+
+---
+
+## Achievements
+
+<p align="center">
+
+| Recognition | Details |
+|---|---|
+| 💻 Project Development | Built multiple academic and practical software projects |
+| 🚀 Internship Development | Completed structured full-stack development tasks |
+| 🧠 Technical Learning | Continuously expanding software engineering and AI/ML knowledge |
+| 🌐 Deployment | Worked with GitHub and modern web deployment workflows |
+
+</p>
+
+---
+
+## Certifications
+
+### AWS
+
+<p>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### Oracle
+
+<p>
+<img src="https://img.shields.io/badge/Oracle-Database%20Learning-312E81?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### NPTEL
+
+<p>
+<img src="https://img.shields.io/badge/NPTEL-Coursework-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</p>
+
+### Cisco
+
+<p>
+<img src="https://img.shields.io/badge/Cisco-Networking%20Learning-4C1D95?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyadharshini753753&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&count_private=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=priyadharshini753753&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini753753&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="45%"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyadharshini753753&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshini753753&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyadharshini753753/priyadharshini753753/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## Current Focus
+
+
+Learning:
+  - Advanced JavaScript
+  - React.js
+  - Backend Development
+  - Machine Learning
+  - Deep Learning
+  - Software Engineering Practices
+
+Building:
+  - Full Stack Web Applications
+  - Responsive Developer Interfaces
+  - Database-driven Applications
+  - AI-focused Projects
+
+Exploring:
+  - Trustworthy AI
+  - Edge Intelligence
+  - AI Security
+  - Open Source
+  - Modern Cloud Deployment
+
+Open To:
+  - Software Engineering Opportunities
+  - Full Stack Development
+  - AI/ML Projects
+  - Open Source Collaboration
+  - Technical Internships
+## Connect
+
+<p align="center">
+
+<a href="mailto:priya.dharshini753753@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="linkedin.com/in/priya-dharshini076342389">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://github.com/priyadharshini753753">
+  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://madurai-bus-tracker.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-### BUILDING WITH CURIOSITY.
+</p>
 
-<sub>© 2026 Priya Dharshini</sub>
+---
 
-<br><br>
+<p align="center">
+  <strong>“Build with purpose. Learn continuously. Ship meaningful software.”</strong>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
