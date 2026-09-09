@@ -289,39 +289,60 @@ Working on practical software development projects involving responsive interfac
 
 ---
 
-## GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyadharshini753753&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&count_private=true" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=priyadharshini753753&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=priyadharshini753753&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini753753&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini753753&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="45%"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshini753753&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"
+    width="70%"
+  />
 </p>
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyadharshini753753&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=priyadharshini753753&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    width="90%"
+  />
 </p>
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshini753753&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshini753753&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Priya%20Dharshini%20-%20Contribution%20Activity"
+    width="95%"
+  />
 </p>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyadharshini753753/priyadharshini753753/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
