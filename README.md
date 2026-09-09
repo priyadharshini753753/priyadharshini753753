@@ -291,23 +291,18 @@ Working on practical software development projects involving responsive interfac
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=priyadharshini753753&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api?username=priyadharshini753753&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini753753&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini753753&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshini753753&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"
-    width="70%"
   />
 </p>
 
@@ -317,7 +312,7 @@ Working on practical software development projects involving responsive interfac
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=priyadharshini753753&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=priyadharshini753753&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
     width="90%"
   />
 </p>
@@ -328,7 +323,7 @@ Working on practical software development projects involving responsive interfac
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshini753753&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Priya%20Dharshini%20-%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshini753753&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=C084FC&area=true&hide_border=true"
     width="95%"
   />
 </p>
