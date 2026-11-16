@@ -62,15 +62,7 @@ I enjoy transforming ideas into responsive interfaces, backend systems, database
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark"/>
 </p>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Vite
-- Material UI
-- Responsive Web Design
-- UI/UX Design
+
 
 ### Backend Development
 
@@ -78,11 +70,6 @@ I enjoy transforming ideas into responsive interfaces, backend systems, database
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel&theme=dark"/>
 </p>
 
-- Node.js
-- Express.js
-- Django
-- Spring Boot
-- Laravel
 
 ### Database Management
 
@@ -90,10 +77,7 @@ I enjoy transforming ideas into responsive interfaces, backend systems, database
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark"/>
 </p>
 
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQLite
+
 
 ### Tools & Deployment
 
@@ -101,15 +85,6 @@ I enjoy transforming ideas into responsive interfaces, backend systems, database
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,aws&theme=dark"/>
 </p>
 
-- Git & GitHub
-- VS Code
-- Postman
-- Figma
-- OpenAPI
-- Excel
-- Vercel
-- Netlify
-- AWS
 
 ---
 
