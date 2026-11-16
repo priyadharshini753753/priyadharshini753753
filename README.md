@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Priya Dharshini</h1>
 
 <p align="center">
@@ -5,22 +6,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Software+Engineering+%7C+AI+%2B+Full+Stack;Building+clean+and+responsive+web+experiences;Learning+%7C+Building+%7C+Improving;Turning+ideas+into+working+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Development;Building+Responsive+Web+Applications;AI+%2B+Machine+Learning;Learning+%7C+Building+%7C+Improving" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20%26%20Engineering-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Science-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tamil%20Nadu%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="https://madurai-bus-tracker.vercel.app/">
+  <a href="https://portfoliooo-bice-xi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/priya-dharshini-076342389/">
     <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:hello@example.com">
+  <a href="mailto:priya.dharshini753753@gmail.com">
     <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/priyadharshini753753">
@@ -31,136 +32,168 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyadharshini753753&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/priyadharshini753753?style=for-the-badge&color=4C1D95&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/priyadharshini753753?style=for-the-badge&color=312E81&label=STARS"/>
 </p>
 
 ---
 
-## About
+## About Me
 
 I'm a Computer Science student focused on building practical software products through **full-stack development, modern web technologies, and AI-driven solutions**.
 
-I enjoy transforming ideas into responsive interfaces, reliable backend systems, database-driven applications, and deployable digital products. My development approach combines clean UI, maintainable code, structured problem solving, and continuous learning.
-
-My current interests include:
-
-- Software Engineering
-- Full Stack Web Development
-- Artificial Intelligence & Machine Learning
-- Responsive UI Engineering
-- REST API Development
-- Database-driven Applications
-- Product-oriented Development
-- Open Source & Developer Tools
+I enjoy transforming ideas into responsive interfaces, backend systems, database-driven applications, and deployable digital products.
 
 ### Open To
 
-`Internships` `Entry-Level Software Roles` `Full Stack Projects` `AI/ML Projects` `Open Source` `Collaborations`
+`Internships` `Software Development` `Full Stack Projects` `AI/ML Projects` `Open Source` `Collaborations`
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,html,css&theme=dark"/>
-</p>
-
-### Frontend
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php&theme=dark"/>
 </p>
 
-### Backend & Databases
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark"/>
 </p>
 
-### Cloud, DevOps & Tooling
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Vite
+- Material UI
+- Responsive Web Design
+- UI/UX Design
+
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel&theme=dark"/>
 </p>
+
+- Node.js
+- Express.js
+- Django
+- Spring Boot
+- Laravel
+
+### Database Management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark"/>
+</p>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,aws&theme=dark"/>
+</p>
+
+- Git & GitHub
+- VS Code
+- Postman
+- Figma
+- OpenAPI
+- Excel
+- Vercel
+- Netlify
+- AWS
 
 ---
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Intermediate | Understanding of supervised learning workflows and model evaluation |
-| Deep Learning | Intermediate | Exploring neural-network based approaches including DNN architectures |
-| AI Security | Intermediate | Exploring AI-assisted approaches for malware and ransomware detection |
-| AdaBoost | Intermediate | Understanding ensemble learning and boosting concepts |
-| Data Processing | Intermediate | Working with structured datasets and analytical workflows |
-| AI Applications | Learning | Exploring practical AI integration into software products |
+| Domain | Details |
+|---|---|
+| Machine Learning | Supervised learning workflows and model evaluation |
+| Deep Learning | Neural networks and DNN architectures |
+| AI Security | Ransomware and malware detection |
+| AdaBoost | Ensemble learning and boosting concepts |
+| Data Processing | Structured datasets and analytical workflows |
+| Data Analytics | Excel and data visualization |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>🚌 Madurai Bus Tracking Application</strong></summary>
+<summary><strong>🛡️ Ransomware Detection System</strong></summary>
 
 ### Overview
 
-A responsive web application designed to provide a convenient interface for exploring Madurai bus routes and transportation information.
+A Flask-based malware classification system that identifies files as Benign or Ransomware using Machine Learning and Deep Learning.
 
 | Category | Details |
 |---|---|
-| Stack | HTML5 · CSS3 · JavaScript |
-| Scale | Responsive Web Application |
-| Performance | Lightweight frontend architecture |
-| Security | Client-side validation and structured UI |
-| Impact | Practical local transportation utility |
-| Repository | [GitHub](https://github.com/priyadharshini753753) |
+| Stack | Python · Flask · Machine Learning · Deep Learning |
+| Classification | Benign vs Ransomware |
+| Features | Feature Selection and Model Evaluation |
+| Interface | Flask Web Application |
+| Deployment | Render |
 
-The project focuses on creating a simple and accessible transportation experience with responsive layouts and deployment-ready frontend architecture.
-
-[Live Application](https://madurai-bus-tracker.vercel.app/)
+[Live Application](https://ransomware-detection-2-8syj.onrender.com)
 
 </details>
 
 <details>
-<summary><strong>💼 Cognevance Responsive Portfolio</strong></summary>
+<summary><strong>🚌 Madurai Bus Tracker</strong></summary>
 
 ### Overview
 
-A responsive developer portfolio created as part of a structured internship project, focusing on professional presentation, responsive UI, project showcasing, and backend-ready contact functionality.
+A public transportation navigation web application designed for Madurai commuters.
 
 | Category | Details |
 |---|---|
-| Stack | HTML5 · CSS3 · JavaScript · Node.js · MySQL |
-| Scale | Full-stack portfolio application |
-| Performance | Responsive and lightweight UI |
-| Security | Form validation and backend API architecture |
-| Impact | Professional developer presence |
-| Repository | [GitHub](https://github.com/priyadharshini753753/cognevance_portfolio) |
+| Stack | React.js · Vite · Leaflet |
+| Platform | Progressive Web Application |
+| Features | Bus Route Search · Timings · Interactive Maps |
+| Deployment | Vercel |
 
-The project demonstrates practical experience across frontend development, backend integration, database connectivity, deployment, and documentation.
+[Live Application](https://madurai-bus-trackers.vercel.app/)
 
 </details>
 
 <details>
-<summary><strong>📦 ERP Inventory Management System</strong></summary>
+<summary><strong>👖 Jackie Jeans – Smart Fit Onboarding</strong></summary>
 
 ### Overview
 
-A database-oriented inventory management solution designed to organize products, inventory records, and operational data.
+An AI-powered smart fit onboarding application that provides personalized jeans fit recommendations.
 
 | Category | Details |
 |---|---|
-| Stack | Java · SQL · MySQL |
-| Scale | Database-driven application |
-| Performance | Structured relational queries |
-| Security | Controlled database operations |
-| Impact | Organized inventory workflow |
-| Repository | [GitHub](https://github.com/priyadharshini753753) |
+| Stack | Next.js 14 · Tailwind CSS · Framer Motion |
+| AI | Claude (Haiku) |
+| Voice | Web Speech API |
+| Features | Interactive Fit Quiz · AI Voice Stylist |
 
-The project demonstrates relational database design, SQL operations, data management, and application-oriented problem solving.
+</details>
+
+<details>
+<summary><strong>🔐 Ancient Codes to Modern Cryptography</strong></summary>
+
+### Overview
+
+An interactive cryptography learning website covering the history and evolution of cipher techniques.
+
+| Category | Details |
+|---|---|
+| Stack | Web Development · Arduino |
+| Integration | Web Serial API |
+| Interface | Matrix Rain Canvas |
+| Features | Interactive Cryptography Learning · Arduino LED Integration |
 
 </details>
 
@@ -169,38 +202,14 @@ The project demonstrates relational database design, SQL operations, data manage
 
 ### Overview
 
-A management application designed around bookstore records and database-driven operations.
+A RESTful API-driven bookstore management system.
 
 | Category | Details |
 |---|---|
-| Stack | Java · SQL · MySQL |
-| Scale | CRUD-based application |
-| Performance | Structured relational queries |
-| Security | Input validation and controlled operations |
-| Impact | Simplified bookstore data management |
-| Repository | [GitHub](https://github.com/priyadharshini753753) |
-
-The application demonstrates practical implementation of database concepts and CRUD workflows.
-
-</details>
-
-<details>
-<summary><strong>🎬 Movie Search Application</strong></summary>
-
-### Overview
-
-A responsive movie discovery application using API-based data retrieval and dynamic frontend rendering.
-
-| Category | Details |
-|---|---|
-| Stack | HTML · CSS · JavaScript · Fetch API |
-| Scale | API-driven frontend |
-| Performance | Asynchronous data fetching |
-| Security | Controlled API request handling |
-| Impact | Interactive movie discovery experience |
-| Repository | [GitHub](https://github.com/priyadharshini753753) |
-
-The project demonstrates REST-style API consumption, asynchronous JavaScript, dynamic DOM rendering, and responsive interface development.
+| Stack | REST API Development |
+| Features | CRUD Operations |
+| Modules | Books · Orders · Users |
+| Focus | Backend API Development |
 
 </details>
 
@@ -208,83 +217,79 @@ The project demonstrates REST-style API consumption, asynchronous JavaScript, dy
 
 ## Experience
 
-### Full Stack Development Intern — Cognevance
+### Full Stack Developer Intern — Cognevance Technologies
 
-**2026 · Internship**
+- Developed responsive web applications using React.js and Node.js.
+- Built REST APIs and integrated frontend components with backend services.
 
-Working on practical software development projects involving responsive interfaces, backend APIs, database integration, and deployment workflows.
+### Frontend Development Intern — Sysslan IT Solution
 
-- Developing responsive and accessible web interfaces
-- Building frontend components using modern web technologies
-- Creating REST API endpoints
-- Integrating MySQL databases with backend applications
-- Implementing authentication workflows
-- Working with Git and GitHub-based development
-- Deploying projects using modern hosting platforms
-- Maintaining project documentation and README files
+- Designed responsive web pages using HTML, CSS, and JavaScript.
+- Worked on UI improvements and frontend customization.
 
-`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `MySQL` `Git` `GitHub`
+### Full Stack Development Intern — Sky Brisk
+
+- Created modern webpage layouts and responsive interfaces.
+- Improved user experience through clean UI design.
+
+### Data Analyst Intern — Blue Pearl Technologies
+
+- Worked with datasets and reports using Excel.
+- Performed basic data visualization and analysis.
+
+### Front-End Development Intern — Cognifyz Technologies
+
+- Developed responsive web pages using HTML, CSS, and JavaScript.
+- Improved UI/UX design and frontend workflows.
 
 ---
 
-## Achievements
+
+
+## Strengths
+
+- Quick Learner
+- Team Collaboration
+- Detail Oriented
+- Creative UI Designing
+- Continuous Learning
+- Ownership & Responsibility
+- Component-Based Development
+
+---
+
+## Current Focus
+
+### Learning
+- Advanced JavaScript
+- React.js
+- Backend Development
+- Machine Learning
+- Deep Learning
+
+### Building
+- Full Stack Web Applications
+- Responsive Interfaces
+- Database-driven Applications
+- AI-powered Projects
+
+### Exploring
+- Software Engineering
+- AI Security
+- Open Source
+- Cloud Deployment
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-
-| Recognition | Details |
-|---|---|
-| 💻 Project Development | Built multiple academic and practical software projects |
-| 🚀 Internship Development | Completed structured full-stack development tasks |
-| 🧠 Technical Learning | Continuously expanding software engineering and AI/ML knowledge |
-| 🌐 Deployment | Worked with GitHub and modern web deployment workflows |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=priyadharshini753753&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini753753&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## Certifications
-
-### AWS
-
-<p>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### Oracle
-
-<p>
-<img src="https://img.shields.io/badge/Oracle-Database%20Learning-312E81?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### NPTEL
-
-<p>
-<img src="https://img.shields.io/badge/NPTEL-Coursework-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</p>
-
-### Cisco
-
-<p>
-<img src="https://img.shields.io/badge/Cisco-Networking%20Learning-4C1D95?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
----
-
-## Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshini753753&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -292,46 +297,12 @@ Working on practical software development projects involving responsive interfac
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-## Current Focus
-
-
-Learning:
-  - Advanced JavaScript
-  - React.js
-  - Backend Development
-  - Machine Learning
-  - Deep Learning
-  - Software Engineering Practices
-
-Building:
-  - Full Stack Web Applications
-  - Responsive Developer Interfaces
-  - Database-driven Applications
-  - AI-focused Projects
-
-Exploring:
-  - Trustworthy AI
-  - Edge Intelligence
-  - AI Security
-  - Open Source
-  - Modern Cloud Deployment
-
-Open To:
-  - Software Engineering Opportunities
-  - Full Stack Development
-  - AI/ML Projects
-  - Open Source Collaboration
-  - Technical Internships
-## Connect
+## Connect With Me
 
 <p align="center">
 
@@ -339,7 +310,7 @@ Open To:
   <img src="https://img.shields.io/badge/Gmail-Email%20Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="linkedin.com/in/priya-dharshini076342389">
+<a href="https://www.linkedin.com/in/priya-dharshini-076342389/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -347,7 +318,7 @@ Open To:
   <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://madurai-bus-tracker.vercel.app/">
+<a href="https://portfoliooo-bice-xi.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
